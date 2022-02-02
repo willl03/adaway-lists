@@ -1,0 +1,8 @@
+General list:
+https://dbl.oisd.nl/
+
+Android tracking:
+https://github.com/Perflyst/PiHoleBlocklist/blob/master/android-tracking.txt
+
+Smart TV:
+https://github.com/Perflyst/PiHoleBlocklist/blob/master/SmartTV.txt
