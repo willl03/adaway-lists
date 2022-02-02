@@ -1,0 +1,105 @@
+### Based on https://github.com/Perflyst/PiHoleBlocklist/blob/master/android-tracking.txt, all credits to them
+### Latest commit 88546cf on Nov 24, 2021
+### Created with:
+### LineageOS 14.1
+### Android 6 on Huawei
+### Android 8 OnePlus
+### iPhone 6
+127.0.0.1 127.0.0.1  localhost
+127.0.0.1 ::1  localhost
+### Facebook
+### graph.facebook.com ### needed for facebook groups
+### b-graph.facebook.com ### needed for facebook pages manager
+127.0.0.1 a-graph.facebook.com
+127.0.0.1 graph.instagram.com
+### b-api.facebook.com ### required for Facebook Messenger login on mobile
+### edge-mqtt.facebook.com ### needed for facebook groups
+127.0.0.1 mqtt-mini.facebook.com
+### Crashlytics
+127.0.0.1 e.crashlytics.com
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 settings.crashlytics.com
+### Uncatagorized
+127.0.0.1 ads.twitter.com
+127.0.0.1 app-measurement.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 stats.appsflyer.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 log.musical.ly
+127.0.0.1 live.direct.ly
+127.0.0.1 device.zhiliaoapp.com
+127.0.0.1 uop.umeng.com
+127.0.0.1 alog.umeng.com
+127.0.0.1 alog.umengcloud.com
+127.0.0.1 api.branch.io
+127.0.0.1 cp.pushwoosh.com
+127.0.0.1 ws.tapjoyads.com
+127.0.0.1 connect.tapjoy.com
+127.0.0.1 ads.api.vungle.com
+127.0.0.1 adlog.flurry.com
+127.0.0.1 data.flurry.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 supersonicads-a.akamaihd.net
+127.0.0.1 i.w.inmobi.com
+127.0.0.1 sdktm.w.inmobi.com
+127.0.0.1 ads.mopub.com
+127.0.0.1 api.gameanalytics.com
+127.0.0.1 med.heyzap.com
+127.0.0.1 api.uca.cloud.unity3d.com
+127.0.0.1 gate.hockeyapp.net
+127.0.0.1 sdk.hockeyapp.net
+127.0.0.1 engine.fyber.com
+127.0.0.1 trk.pinterest.com
+127.0.0.1 graph.accountkit.com
+127.0.0.1 1681.engine.mobileapptracking.com
+127.0.0.1 engine.mobileapptracking.com
+127.0.0.1 mobileapptracking.com
+127.0.0.1 config.ioam.de
+127.0.0.1 logs.locarta.co
+127.0.0.1 postback.pointwise.co
+127.0.0.1 dev.appboy.com
+127.0.0.1 z.moatads.com
+127.0.0.1 appspot-preview.l.google.com
+127.0.0.1 m.quantcount.com
+127.0.0.1 app.adjust.com
+127.0.0.1 utraffic.engine.adglare.net
+### Google
+127.0.0.1 www.googleadservices.com
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 securepubads.g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 ssl.google-analytics.com
+### clients1.google.com (blocks chromecast)
+127.0.0.1 adservice.google.de
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 id.google.de
+127.0.0.1 federatedml-pa.googleapis.com
+### Apple
+127.0.0.1 stats.gc.apple.com
+127.0.0.1 iadsdk.apple.com
+### Huawei
+127.0.0.1 servicesupport.hicloud.com
+### Snapchat ads and tracking
+### gcs.sc-cdn.net ### needed to send snaps
+127.0.0.1 sc-analytics.appspot.com
+127.0.0.1 app-analytics.snapchat.com
+127.0.0.1 adserver.snapads.com
+127.0.0.1 euw.adserver.snapads.com
+127.0.0.1 euc.adserver.snapads.com
+127.0.0.1 usc.adserver.snapads.com
+127.0.0.1 ase.adserver.snapads.com
+127.0.0.1 tr.snapchat.com
+### Whatsapp
+127.0.0.1 crashlogs.whatsapp.net
+### Quizduell
+127.0.0.1 rt.applovin.com
+127.0.0.1 d.applvn.com
+127.0.0.1 a.applvn.com
+127.0.0.1 applvn.com
+### Leanplum
+127.0.0.1 leanplum.com
+127.0.0.1 www.leanplum.com
+127.0.0.1 api.leanplum.com
